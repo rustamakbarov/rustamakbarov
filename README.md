@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rustamakbarov
 - 👀 I’m interested in front-end-development
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning node js
 - 💞️ I’m looking to collaborate on technology companies
 - 📫 You can reach me via email ekberli661@gmail.com
 
